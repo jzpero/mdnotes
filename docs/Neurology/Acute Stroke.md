@@ -1,0 +1,12 @@
+## Etiology of Stroke
+ - **Cardioembolic stroke** (20%)
+   - **Atrial fibrillation**, either NVAF or rheumatic
+     - stroke risk is estimated with the CHA2DS2-VASc score
+   - Myocardial infarction
+   - Prosthetic valve
+   - Paradoxical emboli (PFO or ASD)
+   - **Bacterial endocarditis** with septic embolization (?mycotic aneurysm as well)
+ - **Artery-to-artery embolic stroke**
+   - **Carotid atherosclerosis (10%)**
+   - Intracranial atherosclerosis
+   - Arterial dissection of the ICA (anterior), vertebral arteries (posterior), and vessels beyond the circle of Willis

@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+I've created these notes as I go through my core Internal Medicine residency training in Canada.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+These notes are not necessarily updated nor up-to-date; please refer to them for education purposes only. I am not responsibly for the clinical care derived from information found here.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Created by Jasper Ho [@jasperchho](https://www.twitter.com/jasperchho).

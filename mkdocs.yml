@@ -3,7 +3,7 @@ theme:
   features:
     - search.suggest
     - search.highlight
-site_name: My Docs
+site_name: mdNotes
 plugins:
   - search:
       lang: en

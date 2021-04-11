@@ -1,0 +1,9 @@
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+site_name: My Docs
+plugins:
+  - search:
+      lang: en

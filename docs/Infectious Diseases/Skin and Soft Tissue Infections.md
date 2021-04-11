@@ -10,7 +10,6 @@ Culture only with purulent cellulitis only (i.e. when you can get an actual flui
 ## Antimicrobial Therapy
 - Considerations:
     - Most cases require empiric coverage of MSSA and Group A Strep.
-    - 
     - Empiric coverage of MRSA should only be done in certain cases described below.
     - Initial duration should be 7-14 days.
     - PO route can be done if:

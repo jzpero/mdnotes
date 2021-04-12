@@ -17,8 +17,8 @@ A pair of recent trials examined NS vs RL/balanced crystalloids in both critical
 | SALT-ED (2018)[^1] |            |              |            | Among non-critically ill ED patients, initial fluid resuscitation with balanced crystalloids (Lactated Ringer's or Plasma-Lyte) does not reduce duration of hospitalization when compared to the isotonic crystalloid, normal saline. However, balanced crystalloid use is associated with a reduction in major kidney-related events. |
 | SMART (2018)[^2]   |            |              |            | In critically ill adults,                                                                                                                                                                                                                                                                                                              |
 
-[^1]: [Self WH, et al. "Balanced crystalloids versus saline in noncritically ill adults". *The New England Journal of Medicine*. 2018. 378(10):819-828.](http://www.nejm.org/doi/full/10.1056/NEJMoa1711586)
-[^2]: 
+[^1]: [Self WH, Semler MW, Wanderer JP, Wang L, Byrne DW, Collins SP, Slovis CM, Lindsell CJ, Ehrenfeld JM, Siew ED, Shaw AD. Balanced crystalloids versus saline in noncritically ill adults. New England Journal of Medicine. 2018 Mar 1;378(9):819-28.](http://www.nejm.org/doi/full/10.1056/NEJMoa1711586)
+[^2]: [Semler MW, Self WH, Wanderer JP, Ehrenfeld JM, Wang L, Byrne DW, Stollings JL, Kumar AB, Hughes CG, Hernandez A, Guillamondegui OD. Balanced crystalloids versus saline in critically ill adults. New England Journal of Medicine. 2018 Mar 1;378(9):829-39.](https://www.nejm.org/doi/full/10.1056/nejmoa1711584)
 
 !!! tip "What crystalloid should be my pick?"
     In the absence of any major indications for normal saline, such as medication interactions, **Ringer's Lactate** should be the crystalloid of choice, especially if the patient is hyperchloremic. Theoretically in existing hyperkalemia, RL will equilibriate the serum potassium to 4 mmol/L. If renal kaliuresis is impaired then the potassium load *may* lead to accumulation.

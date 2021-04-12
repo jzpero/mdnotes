@@ -8,6 +8,8 @@ copyright: Copyright &copy; 2021 Jasper Ho
 theme:
   name: material
   custom_dir: overrides
+  icon:
+    logo: material/pill
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"

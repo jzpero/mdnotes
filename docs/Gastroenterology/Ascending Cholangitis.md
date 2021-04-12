@@ -1,4 +1,4 @@
-# Definition
+## Definition
 
 -   Life-threatening complication of gallstones
 
@@ -16,7 +16,7 @@
 
  
 
-# Clinical Features
+## Clinical Features
 
 -   Typical symptoms (**Charcot's Triad**):
 
@@ -36,7 +36,7 @@
 
  
 
-# Diagnosis
+## Diagnosis
 
 -   Labs
 
@@ -58,7 +58,7 @@
 
  
 
-# Treatment
+## Treatment
 
 -   **Broad spectrum antibiotics**
 

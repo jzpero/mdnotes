@@ -1,3 +1,4 @@
+# Decerebrate versus Decorticate
 ## Pathophysiology
    
 These are ABNORMAL posturing of the muscles that indicate severe brain injury.

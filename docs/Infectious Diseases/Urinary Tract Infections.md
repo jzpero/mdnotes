@@ -78,11 +78,7 @@ Complicated UTI:
 
  
 
-# Principles of Management
-
-<img src="media/image1.png" style="width:9.73958in;height:10.92708in" alt="Relapse of symptoms Upper tract symptoms Lm•er tract symptoms with leukocytes with k•ukocytes culture Short Rx 7 days Of Positive relapse Positive relapse No relapse of symptoms • cure NO response Or clinical relapse urine culture R»sitive based on sensitivities Clinical NO relapse Of cure if rwgative, treat for Chlamydia Urine culture Negative. exclude abscess Treat x 2 weds FoUow up culture if recurrent symptorns consider Chlamydia O&#39; Treat x 2 weeks " />
-
- 
+# Principles of Management 
 
 # Uncomplicated Cystitis
 

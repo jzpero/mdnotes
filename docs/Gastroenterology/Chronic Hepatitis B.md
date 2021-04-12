@@ -1,3 +1,0 @@
-##Treatment
-* Who to Treat:
-* 

@@ -51,9 +51,11 @@ Caffeine is not associated with atrial fibrillation.
 
 **EKG findings** are an irregularly irregular rhythm, no P waves, no isoelectric baseline, variable ventricular rate, narrow QRS \(usually\), and possibly fine/coarse high-frequency fibrillatory waves (which may mimic P waves). The ventricular rate is often 110 to 160 bpm, and if it is above 100 then it is AF **with rapid ventricular response** a.k.a. "AFRVR".
 
+![af example.png](img/af%20example.png)
+
 ## Pathophysiology
 
-![Classifications of atrial fibrillation and their underlying processes. From Harrison&apos;s Textbook of Internal Medicine](.gitbook/assets/image%20%281%29.png)
+![types of af.png](img/types%20of%20af.png)
 
 Classically, AF can be a progressive condition that involves cardiac myocyte remodeling, fibrosis, and conduction abnormalities. Atrial dilatation, commonly seen in longstanding systemic hypertension, predisposes to ectopic atrial automaticity and abnormal electrical activity.
 
@@ -103,7 +105,7 @@ In 2002, the [AFFIRM trial \(NEJM 2002\)](https://www.nejm.org/doi/full/10.1056/
 
 Common agents include: **beta blockers** \(metoprolol, bisoprolol, etc\), **non-DHP CCBs** \(diltiazem, verapamil\), **digoxin** \(lacks negative inotropic effects, may be useful in heart failure\).
 
-![Summary of recommendations for choice of rate-control agents for various conditions. 2012 CCS Heart Failure update.]()
+![rate control.png](img/rate%20control.png)
 
 1. **Beta blockers** are first-line therapy regardless of history of myocardial infarction or LV dysfunction.
 2. **Non-DHP CCBs** are first-line as well with no history of MI or LV dysfunction. They are less preferred than BBs in the setting of CAD. Avoid in heart failure.

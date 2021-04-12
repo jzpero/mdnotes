@@ -1,13 +1,41 @@
-theme:
-    name: material
-    features:
-      - search.suggest
-      - search.highlight
+# Project Information
 site_name: mdNotes
+
+# Copyright
+copyright: Copyright &copy; 2021 Jasper Ho
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
 plugins:
-    - search:
-        lang: en
+  - search
+
 markdown_extensions:
-    - smarty
-    - sane_lists
-    - attr_list
+  - smarty
+  - sane_lists
+  - attr_list
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/jasperchho

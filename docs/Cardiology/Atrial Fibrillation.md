@@ -47,17 +47,9 @@
 | Systemic | acute infection, surgery |
 | Ingestion | acute alcohol consumption, sympathomimetics, digoxin, theophylline, adenosine |
 
-{% hint style="info" %}
 Caffeine is not associated with atrial fibrillation.
-{% endhint %}
 
-**EKG findings** are an irregularly irregular rhythm, no P waves, no isoelectric baseline, variable ventricular rate, narrow QRS \(usually\), and possibly fine/coarse high-frequency fibrillatory waves. The ventricular rate is often 110 to 160 bpm, and if it is above 100 then it is AF **with rapid ventricular response**.
-
-![Atrial fibrillation. From Life in the Fast Lane.](.gitbook/assets/image%20%2813%29.png)
-
-{% hint style="info" %}
-Fibrillatory waves may mimic P waves.
-{% endhint %}
+**EKG findings** are an irregularly irregular rhythm, no P waves, no isoelectric baseline, variable ventricular rate, narrow QRS \(usually\), and possibly fine/coarse high-frequency fibrillatory waves (which may mimic P waves). The ventricular rate is often 110 to 160 bpm, and if it is above 100 then it is AF **with rapid ventricular response** a.k.a. "AFRVR".
 
 ## Pathophysiology
 
@@ -65,9 +57,7 @@ Fibrillatory waves may mimic P waves.
 
 Classically, AF can be a progressive condition that involves cardiac myocyte remodeling, fibrosis, and conduction abnormalities. Atrial dilatation, commonly seen in longstanding systemic hypertension, predisposes to ectopic atrial automaticity and abnormal electrical activity.
 
-{% hint style="info" %}
 Atrial fibrillation promotes atrial fibrillation.
-{% endhint %}
 
 | Classification              | Definition                                                                                                                                                                                     | Process                                                                                |
 |:--------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------- |
@@ -100,18 +90,16 @@ In general, patients who maintain sinus rhythm have better survival than those w
 
 In 2002, the [AFFIRM trial \(NEJM 2002\)](https://www.nejm.org/doi/full/10.1056/NEJMoa021328) compared **rate control strategies** \(beta blockers, non-DHP CCBs, digoxin; target HR &lt;80 at rest and &lt;110 during 6-min walk test\) to **rhythm control strategies** \(amiodarone, disopyramide, flecainide, moricizine, procainamide, propafenone, quinidine, sotalol, dofetilide, and cardioversion\) in **patients 65 or older with chronic non-valvular AF, and eligible for anticoagulation with warfarin \(target INR 2-3\).** Patients with rhythm control were encouraged to be on anticoagulation but were allowed to not be anticoagulated if NSR had been sustained for at least 4 \(ideally 12\) consecutive weeks. Patients with rate control had to be on constant anticoagulation. Overall, there was no survival differences between rate and rhythm approaches, but rhythm control trended towards increased mortality, especially in the elderly and those with no history of heart failure. There were fewer adverse drug effects with rate control.
 
-{% hint style="success" %}
-1. Consider **rhythm control** if young and asymptomatic with no structural heart disease.
-2. Consider **rate control** if older with structural heart disease or a dilated left atrium.
-{% endhint %}
+!!! hint 
+    1. Consider **rhythm control** if young and asymptomatic with no structural heart disease.
+    2. Consider **rate control** if older with structural heart disease or a dilated left atrium.
 
 ### Rate Control
 
 **Goal:** HR less than 100 at rest, according to the CCS Guidelines. However, the [RACE II trial \(NEJM 2010\)](https://www.nejm.org/doi/full/10.1056/NEJMoa1001337) demonstrated that, over three years with a broad CV composite outcome, a lenient rate target \(resting HR &lt;110 bpm\) was noninferior to a strict rate control target \(resting HR &lt; 80 bpm and &lt;110 bpm during moderate exercise\). Not only that, but a lenient target increased the target success rate, decreased visits necessary to reach the target, decreased the number of patients on medications at all, and decreased the dosages of beta blockers, verapamil, and combination therapy.
 
-{% hint style="info" %}
-The **RACE II \(2010\)** trial supports a lenient heart rate approach \(&lt;110 bpm at rest\) in active patients with mild to moderate symptoms.
-{% endhint %}
+!!! fyi
+    The **RACE II \(2010\)** trial supports a lenient heart rate approach \(&lt;110 bpm at rest\) in active patients with mild to moderate symptoms.
 
 Common agents include: **beta blockers** \(metoprolol, bisoprolol, etc\), **non-DHP CCBs** \(diltiazem, verapamil\), **digoxin** \(lacks negative inotropic effects, may be useful in heart failure\).
 
@@ -124,10 +112,6 @@ Common agents include: **beta blockers** \(metoprolol, bisoprolol, etc\), **non-
 5. **Dronedarone** should not be used in permanent AF, or for the sole purpose of rate control. As well, do not use with history of heart failure or LVEF &lt; 40%. Be cautious if also using digoxin.
 
 **AV node ablation** or a **permanent pacemaker** may be needed if maximum pharmacologic therapy fails to control rate.
-
-{% hint style="success" %}
-If possible, **use beta blockers first**.
-{% endhint %}
 
 ### Rhythm Control
 
@@ -167,7 +151,7 @@ In Canada, the recent **CHADS65** algorithm has supplanted previous scores in de
 
 Any anticoagulant therapy increases the risk of bleeding; that is the nature of the mechanism. The **HAS-BLED** score estimates the risk of major bleeds. A score of 3 or more is considered high risk, and indicates close monitoring and followup.
 
-![](.gitbook/assets/image%20%285%29.png)
+![hasbled.png](img/hasbled.png)
 
 ### Anticoagulation
 

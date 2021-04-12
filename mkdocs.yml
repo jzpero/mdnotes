@@ -1,9 +1,12 @@
 theme:
-  name: material
-  features:
-    - search.suggest
-    - search.highlight
+    name: material
+    features:
+      - search.suggest
+      - search.highlight
 site_name: mdNotes
 plugins:
-  - search:
-      lang: en
+    - search:
+        lang: en
+markdown_extensions:
+    - smarty
+    - sane_lists

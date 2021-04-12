@@ -10,3 +10,4 @@ plugins:
 markdown_extensions:
     - smarty
     - sane_lists
+    - attr_list

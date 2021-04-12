@@ -22,6 +22,8 @@ A pair of recent trials examined NS vs RL/balanced crystalloids in both critical
 
 !!! tip "What crystalloid should be my pick?"
     In the absence of any major indications for normal saline, such as medication interactions, **Ringer's Lactate** should be the crystalloid of choice, especially if the patient is hyperchloremic. Theoretically in existing hyperkalemia, RL will equilibriate the serum potassium to 4 mmol/L. If renal kaliuresis is impaired then the potassium load *may* lead to accumulation.
+    
+Of note, the lactate in RL is sodium lactate, *not* lactic acid. It does not cause a lactic acidosis. Since it is a weak base (proton acceptor), it might actually buffer the pH a little (source need). Accumulation of the lactate may occur if the liver is unable to metabolize the lactate load. This may interfere with interpretation of lactate levels.
 
 Discussion can be found here:
 

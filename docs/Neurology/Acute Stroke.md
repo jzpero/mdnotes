@@ -15,12 +15,12 @@
 ### Address Comorbidities
 
 - hypertension
-- dyslipidemia
-- diabetes mellitus
+- [[dyslipidemia]]
+- [[diabetes mellitus]]
 - smoking
 - extracranial carotid artery stenosis
 - intracranial carotid artery stenosis
-- atrial fibrillation
+- [[atrial fibrillation]]
 - patent foramen ovale closure
 
 ###  High-Risk Transient Ischemic Attack or Minor Stroke

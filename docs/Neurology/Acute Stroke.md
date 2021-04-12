@@ -15,8 +15,8 @@
 ### Address Comorbidities
 
 - hypertension
-- [[dyslipidemia]]
-- [[diabetes mellitus]]
+- [[dyslipidemia.md]]
+- [[diabetes mellitus.md]]
 - smoking
 - extracranial carotid artery stenosis
 - intracranial carotid artery stenosis
@@ -25,11 +25,21 @@
 
 ###  High-Risk Transient Ischemic Attack or Minor Stroke
 
-In these patients (TIA with ABCD >= 4, minor stroke with NIHSS less than or equal to 3), dual anti-platelet therapy is warranted as per several recent trials (CHANCE, POINT).
+In these patients (TIA with ABCD >= 4, minor stroke with NIHSS less than or equal to 3), dual anti-platelet therapy is warranted as per several recent trials (CHANCE[^1], POINT[^2] for clopidogrel and THALES[^3] for ticagrelor).
 
-1. Load with ASA 162 mg PO and clopidogrel 300 mg PO
-2. ASA 81 mg PO and clopidogrel 75 mg PO daily for 21 days
-3. Antiplatelet monotherapy afterwards indefinitely
+[^1]: [Wang Y, Wang Y, Zhao X, Liu L, Wang D, Wang C, Wang C, Li H, Meng X, Cui L, Jia J. Clopidogrel with aspirin in acute minor stroke or transient ischemic attack. N Engl J Med. 2013 Jul 4;369:11-9.](https://www.nejm.org/doi/full/10.1056/NEJMoa1215340)
+[^2]: Johnston SC, Easton JD, Farrant M, Barsan W, Conwit RA, Elm JJ, Kim AS, Lindblad AS, Palesch YY. Clopidogrel and aspirin in acute ischemic stroke and high-risk TIA. New England Journal of Medicine. 2018 Jul 19;379(3):215-25.
+[^3]: Johnston SC, Amarenco P, Denison H, Evans SR, Himmelmann A, James S, Knutsson M, Ladenvall P, Molina CA, Wang Y. Ticagrelor and aspirin or aspirin alone in acute ischemic stroke or TIA. New England Journal of Medicine. 2020 Jul 16;383(3):207-17.
+
+!!! example "Clopidogrel-based DAPT"
+    1. Load with ASA 162 mg PO and clopidogrel 300 mg PO
+    2. ASA 81 mg PO and clopidogrel 75 mg PO daily for 21 days
+    3. Antiplatelet monotherapy afterwards indefinitely
+    
+!!! example "Ticagrelor-Based DAPT"
+    1. test
+    2. test
+    3. test
 
 Antiplatelet monotherapy as maintenance can be one of three accepted regimens:
 

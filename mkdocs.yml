@@ -34,6 +34,10 @@ markdown_extensions:
   - smarty
   - sane_lists
   - attr_list
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - footnotes
 
 extra:
   social:

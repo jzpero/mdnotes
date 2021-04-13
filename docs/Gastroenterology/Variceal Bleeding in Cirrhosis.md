@@ -1,3 +1,4 @@
+# Variceal Bleeding
 [Methods to achieve hemostasis in patients with acute variceal hemorrhage - UpToDate](https://www.uptodate.com/contents/methods-to-achieve-hemostasis-in-patients-with-acute-variceal-hemorrhage?search=variceal%20bleeding&topicRef=1254&source=see_link#H62477672)
 
 [Overview of the management of patients with variceal bleeding - UpToDate](https://www.uptodate.com/contents/overview-of-the-management-of-patients-with-variceal-bleeding?search=variceal%20bleeding&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1#H1217863665)

@@ -1,3 +1,4 @@
+# Opioid Analgesia
 ## Pharmacology
 - **codone** opioids undergo Phase 1 metabolism by CYP enzymes to their corresponding **morphone** drugs. For example, *oxycodone* becomes *oxymorphone* and *hydrocodone* becomes *hydromorphone*.
 

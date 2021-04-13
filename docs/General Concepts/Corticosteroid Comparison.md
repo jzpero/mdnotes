@@ -1,3 +1,4 @@
+# Corticosteroid Comparison
 | Corticosteroid            | Glucocorticoid Potency (Relative)         | Mineralocorticoid Potency (Relative) | Duration (h) |
 | ------------------------- | ----------------------------------------- | ------------------------------------ | ------------ |
 | Hydrocortisone (cortisol) | 1                                         | 1/200                                | 8 - 12       |
@@ -8,7 +9,7 @@
 | Triamcinolone             | 5                                         | None                                 | 12 - 36      |
 | Dexamethasone             | 30                                        | None                                 | 36 - 72      |
 | Betamethasone             | 30                                        | None                                 | 36 - 72      |
-| Fludrocortisone           | 10 - 15, but not used for this indication | 1                                    | 24 - 48        | 
+| Fludrocortisone           | 10 - 15, but not used for this indication | 1                                    | 24 - 48      |
 
 ## Notes
 - Prednisolone, the active form of prednisone, is used in severe liver disease (e.g. ETOH hepatitis) as is does not require hepatic metabolism to its active form.

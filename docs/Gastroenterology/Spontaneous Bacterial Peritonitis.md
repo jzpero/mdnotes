@@ -1,3 +1,4 @@
+# Spontaneous Bacterial Peritonitis
 ## Microbiology and Pathogenesis
 
 -   SBP develops in patients with severe ascites, usually due to cirrhosis, but also from:

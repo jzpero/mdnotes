@@ -1,28 +1,37 @@
-# *Clostridium difficile* Infection
+# Clostridium difficile Infection (CDI)
+
+Guidelines referenced:
+
+1. [2017 IDSA *Clostridium difficile* Clinical Practice Guidelines](https://academic.oup.com/cid/article/66/7/e1/4855916)
+2. [2018 AMMI *Clostridium difficile* Clinical Practice Guidelines](https://jammi.utpjournals.press/doi/full/10.3138/jammi.2018.02.13)
+
 ## Summary
 
--  test only with reasonably high pretest probability of C diff infection causing active diarrhea (?reasons for altered gut microbiome)
+-  test only with reasonably high pretest probability of CDI causing active diarrhea (?reasons for altered gut microbiome)
 -  start with low dose vancomycin for 10 to 14 days
 - if severe, (1) quadruple dose of vanco (2) add IV Flagyl (3) consider adding vanco enema (4) might need to call surgery for a megacolon
 - if recurrent, generally a long taper of vanco is appropriate
 - call ID for help 
 
-
-## Indications for testing
+## Testing for CDI
+### Indications for Testing
 
 - submit stool samples if NOT on laxatives, and with unexplained and new onset >= unformed stools in 24 hr  
 - do not repeat testing within 7 days during the same episode of diarrhea or if asymptomatic
+
+### Testing Methods/Algorithm
+
 - testing in Ontario is via a combination of glutamate dehydrogenase (GDH) screening + LAMP confirmation (DNA amplification of toxin genes) [https://www.publichealthontario.ca/en/laboratory-services/test-information-index/clostridium-difficile](https://www.publichealthontario.ca/en/laboratory-services/test-information-index/clostridium-difficile)
 
-## Severity
+## Severity of CDI
+
+There is no accepted consensus for defining these. The IDSA defines CDI infection as one of three severities. 
 
 - non-severe
-- severe (AKI, leukocytosis >15)
+- severe (AKI, leukocytosis ≥ 15)
 - fulminant (toxic megacolon, ileus, hypotension, shock)
 
-  
-
-## Treatment
+ ## Treatment of CDI
 ### Initial Episode
 
 -   If non-severe or severe, first-line is vancomycin 125 mg po QID, or fidaxomicin 200mg BID. Duration is 10 days
@@ -44,14 +53,14 @@
     -   _This is in the IDSA guidelines but not the Canadian guidelines._
 - OR, if vancomycin was initially used, then use fixadomycin as above (superior treatment response)
 
-### More Recurrences
 
--   tapered and pulsed vanco regimen as above
--   vanco then rifaximin 
--   fidaxomicin 
--   fecal transplant
 
-## Prophylaxis
+### Second or Subsequent Recurrences
+
+- Vancomycin as a prolonged tapered and/or pulsed regimen (e.g., 125 mg po QID for 14 days; 125 mg po TID for 7 days; 125 mg po BID for 7 days; 125 mg po once daily for 7 days, and then every 2 or 3 days for 2–8 weeks)
+- Consider fecal microbiota transplantation for recurrence following a vancomycin taper
+
+## Prophylaxis Against CDI
 
 - there is limited evidence to support use of low-dose vancomycin during systemic antibiotic therapy for secondary ppx of CDI ([https://www.jwatch.org/na49075/2019/05/14/vancomycin-prophylaxis-prevent-recurrent-c\-diff\-not-so](https://www.jwatch.org/na49075/2019/05/14/vancomycin-prophylaxis-prevent-recurrent-c-diff-not-so)). It may be associated with lower rates of recurrence with just one prior C diff infection.
 

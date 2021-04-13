@@ -20,7 +20,7 @@ These consist of the ACE inhibitors (e.g. enalapril, ramipril, captopril), ARBs 
 3. Maintain a 36-hr washout period when switching from an ACEi; no such period is needed for ARBs. This is to reduce risk of angioedema.
 
 ### Beta-blockers
-These include metoprolol CR/XL (**MERIT-HF**[^%]), bisoprolol (**CIBIS-II**[^!], and carvedilol (**Carvedilol HF Study**[^$] and **COPERNICUS**[^#]). The version of metoprolol available in Canada, the immediate-release version, was not investigated in these seminal trials.
+These include metoprolol CR/XL (**MERIT-HF**[^%]), bisoprolol (**CIBIS-II**[^!]), and carvedilol (**Carvedilol HF Study**[^$] and **COPERNICUS**[^#]). The version of metoprolol available in Canada, the immediate-release version, was not investigated in these seminal trials.
 
 [^%]: [Effect of metoprolol CR/XL in chronic heart failure: Metoprolol CR/XL Randomised Intervention Trial in-Congestive Heart Failure (MERIT-HF) - The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(99)04440-2/fulltext)
 [^$]: [The Effect of Carvedilol on Morbidity and Mortality in Patients with Chronic Heart Failure | NEJM](https://www.nejm.org/doi/full/10.1056/nejm199605233342101)

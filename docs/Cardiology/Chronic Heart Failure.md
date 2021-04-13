@@ -18,7 +18,7 @@ These consist of the ACE inhibitors (e.g. enalapril, ramipril, captopril, perind
 !!! fyi "Current 2021 CCS Recommendations for ARNIs"
     1. Switch to ARNI during hospitalizations for acute decompensated HF.
     2. Switch to ARNI if symptomatic on previous triple-GDMT with an ACEi or ARB.
-    3. Initiate therapy with ARNIs when starting treatment for new HFrEF
+    3. Initiate therapy with ARNIs when starting treatment for new HFrEF.
     4. Maintain a 36-hr washout period when switching from an ACEi; no such period is needed for ARBs. This is to reduce risk of angioedema.
 
 *Starting dose of sacubitril-valsartan (Entresto®) is 50-100 mg BID (dose rounded). Target dose is 200 mg BID (dose rounded).*
@@ -45,8 +45,13 @@ Key studies showing mortality benefit for these medications include **RALES**[^&
 These medications have taken the nephrology and cardiology world by storm in the setting of CKD and HF. They serve double-duty as oral antihyperglycemics in diabetic patients and should be strongly considered in that setting.
 
 - **Canagliflozin** (Invokana)
+    - CANVAS
 - **Empagliflozin** (Jardiance)
+    - EMPEROR-Reduced
 - **Dapagliflozin** (Farxiga)
+    - DAPA-HF
+- **Sotagliflozin**
+    - SOLOIST-WHF
 
 ## Medical Therapy for HFpEF
 No medications have had a clear positive impact on mortality in HFpEF. The disease is strongly linked to its underlying predisposing conditions, and optimization of these is likely to provide the best benefit. However, the following may be the best therapy for HFpEF:

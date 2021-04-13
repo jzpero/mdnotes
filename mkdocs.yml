@@ -32,6 +32,15 @@ theme:
 plugins:
   - search:
       prebuild_index: true
+  - tags
+  - ezlinks
+  - minify:
+    minify_html: true
+    htmlmin_opts:
+        remove_comments: true
+  - git-authors
+  - git-revision-date-localized
+
 
 markdown_extensions:
   - smarty

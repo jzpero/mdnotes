@@ -11,13 +11,17 @@ These sets of therapies specifically target mortality benefit in HFrEF (LVEF < 4
 4. SGLT2 inhibition
 
 ### RAAS Inhibition
-These consist of the ACE inhibitors (e.g. enalapril, ramipril, captopril), ARBs (e.g. candesartan, valsartan, irbesartan), and ARNIs (sacubitril-valsartan). Mechanism likely involves targeting the cardiomyocyte remodeling process.
+These consist of the ACE inhibitors (e.g. enalapril, ramipril, captopril, perindopril, trandalopril, lisinopril), ARBs (e.g. candesartan, valsartan, irbesartan), and ARNIs (sacubitril-valsartan). Mechanism likely involves targeting the cardiomyocyte remodeling process.
 
-**ARNIs** have taken the forefront of treatment recommendations. Groundbreaking studies (**PARADIGM-HF** for HFrEF) confirmed their efficacy in chronic heart failure and superiority over standard-of-care ACE inhibitors like enalapril. **PARAGON-HF**, for HFpEF, was not a positive trial. Current 2021 recommendations are to:
+**ARNIs** have taken the forefront of treatment recommendations. Groundbreaking studies (**PARADIGM-HF** for HFrEF) confirmed their efficacy in chronic heart failure and superiority over maximal enalapril. **PARAGON-HF**, for HFpEF, was not a positive trial. 
 
-1. Switch to ARNI if hospitalized.
-2. Switch to ARNI if NYHA 2+ on previous triple-GDMT with an ACEi or ARB.
-3. Maintain a 36-hr washout period when switching from an ACEi; no such period is needed for ARBs. This is to reduce risk of angioedema.
+!!! fyi "Current 2021 CCS Recommendations for ARNIs"
+    1. Switch to ARNI during hospitalizations for acute decompensated HF.
+    2. Switch to ARNI if symptomatic on previous triple-GDMT with an ACEi or ARB.
+    3. Initiate therapy with ARNIs when starting treatment for new HFrEF
+    4. Maintain a 36-hr washout period when switching from an ACEi; no such period is needed for ARBs. This is to reduce risk of angioedema.
+
+*Starting dose of sacubitril-valsartan (Entresto®) is 50-100 mg BID (dose rounded). Target dose is 200 mg BID (dose rounded).*
 
 ### Beta-blockers
 These include metoprolol CR/XL (**MERIT-HF**[^%]), bisoprolol (**CIBIS-II**[^!]), and carvedilol (**Carvedilol HF Study**[^$] and **COPERNICUS**[^#]). The version of metoprolol available in Canada, the immediate-release version, was not investigated in these seminal trials.

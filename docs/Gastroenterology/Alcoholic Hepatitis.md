@@ -1,7 +1,7 @@
 # Alcoholic Hepatitis
 ## Treatment of ETOH Hepatitis
 ### Deciding to Treat
-We mainly use the the **Maddrey discriminant function (DF)** which is an objective measure based on the INR, bilirubin, etc. Maddrey DF >= 32 indicates severe ETOH hepatitis with high mortality risk and would likely benefit from specific treatment.
+We mainly use the the **Maddrey discriminant function (DF)** which is an objective measure based on the INR, bilirubin, etc. Maddrey DF ≥ 32 indicates severe ETOH hepatitis with high mortality risk and would likely benefit from specific treatment.
 
 ### Treatment Regimens
 #### Picking a Regimen

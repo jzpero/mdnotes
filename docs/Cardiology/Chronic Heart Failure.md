@@ -1,36 +1,53 @@
----
-description: Specific to HF reduced EF (LVEF < 40%)
----
-
 # Chronic Heart Failure
+## Current Initial Guideline-Directed Medical Therapy (GDMT) for HFrEF
 
-## Current Guideline-Directed Medical Therapy \(GDMT\)
+These sets of therapies specifically target mortality benefit in HFrEF (LVEF < 40%). These notes will be updated to the 2021 CCS Guidelines[^*]. The following four classes of medications should all be initiated shortly after diagnosis of heart failure with reduced ejection fraction, and uptitrated aggressively as symptoms and clinical condition allow.
 
-* **RAAS inhibition**
-  * \(1\) ACE inhibitors
-  * \(2\) ARBs
-    * of note, candesartan has most evidence in HFpEF \(CHARM-PRESERVED\)
-  * \(3\) ARNI
-    * Studies: PARADIGM-HF \(rEF\), PARAGON-HF \(pEF\)
-    * Superior to enalapril alone in reduced ejection fraction heart failure.
-    * 36-hour washout required if switching between ACE/ARNI classes due to risk of angioedema
-    * Current CCS guidelines have specific indications for ARNIs:
-      * maximal GDMT otherwise \(ACE/ARB-based\)
-      * Symptomatic from heart failure \(NYHA II-IV\)
-* **Mineralocorticoid receptor antagonists \(MRAs\)**
-  * eplerenone, spironolactone
-  * studies: RALES, EPHESUS, TOPCAT \(pEF\)
-  * mortality benefit in rEF, possibly in pEF but not proven due to issues in data from Russia/Georgia sites
-  * Avoid in renal failure and hyperkalemia
-* **Beta blockers**
-  * specifically: metoprolol \(MERIT-HF\), bisoprolol, carvedilol
-  * most useful in ischemic etiology
-  * target HR of 70
-  * metoprolol probably weakest evidence
-  * initially causes symptom worsening, but improves over several months
-  * least priority of any of the other GDMT therapies
+[^*]: [CCS/CHFS Heart Failure Guidelines Update: Defining a New Pharmacologic Standard of Care for Heart Failure With Reduced Ejection Fraction - Canadian Journal of Cardiology (onlinecjc.ca)](https://www.onlinecjc.ca/article/S0828-282X(21)00055-6/fulltext)
 
-## Other Mortality-Benefit Meds
+1. RAAS inhibition
+2. Beta-blockade
+3. Mineralocorticoid antagonism
+4. SGLT2 inhibition
 
+### RAAS Inhibition
+These consist of the ACE inhibitors (e.g. enalapril, ramipril, captopril), ARBs (e.g. candesartan, valsartan, irbesartan), and ARNIs (sacubitril-valsartan). Mechanism likely involves targeting the cardiomyocyte remodeling process.
+
+**ARNIs** have taken the forefront of treatment recommendations. Groundbreaking studies (**PARADIGM-HF** for HFrEF) confirmed their efficacy in chronic heart failure and superiority over standard-of-care ACE inhibitors like enalapril. **PARAGON-HF**, for HFpEF, was not a positive trial. Current 2021 recommendations are to:
+
+1. Switch to ARNI if hospitalized.
+2. Switch to ARNI if NYHA 2+ on previous triple-GDMT with an ACEi or ARB.
+3. Maintain a 36-hr washout period when switching from an ACEi; no such period is needed for ARBs. This is to reduce risk of angioedema.
+
+### Beta-blockers
+These include metoprolol CR/XL (**MERIT-HF**[^%]), bisoprolol (**CIBIS-II**[^!], and carvedilol (**Carvedilol HF Study**[^$] and **COPERNICUS**[^#]). The version of metoprolol available in Canada, the immediate-release version, was not investigated in these seminal trials.
+
+[^%]: [Effect of metoprolol CR/XL in chronic heart failure: Metoprolol CR/XL Randomised Intervention Trial in-Congestive Heart Failure (MERIT-HF) - The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(99)04440-2/fulltext)
+[^$]: [The Effect of Carvedilol on Morbidity and Mortality in Patients with Chronic Heart Failure | NEJM](https://www.nejm.org/doi/full/10.1056/nejm199605233342101)
+[^#]: [Effect of Carvedilol on Survival in Severe Chronic Heart Failure | NEJM](https://www.nejm.org/doi/full/10.1056/NEJM200105313442201)
+[^!]: [The Cardiac Insufficiency Bisoprolol Study II (CIBIS-II): a randomised trial - The Lancet](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(98)11181-9.pdf)
+
+Likely most useful in HF of ischemic etiology. Target a HR of 70.
+
+### Mineralocorticoid Receptor Antagonists
+These consists of the drugs spironolactone (Aldactone®) and eplerenone. The key difference between these two is that spironolactone has an adverse effect of painful gynecomastia, and eplerenone should be used if this develops. These can cause hyperkalemia as well.
+
+Key studies showing mortality benefit for these medications include **RALES**[^&] for heart failure and **EPHESUS**[^^] for post-MI with LV dysfunction.
+
+[^&]: [The Effect of Spironolactone on Morbidity and Mortality in Patients with Severe Heart Failure | NEJM](https://www.nejm.org/doi/full/10.1056/NEJM199909023411001)
+[^^]: [Eplerenone, a Selective Aldosterone Blocker, in Patients with Left Ventricular Dysfunction after Myocardial Infarction | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa030207)
+
+### SGLT2 Inhibitors
+These medications have taken the nephrology and cardiology world by storm in the setting of CKD and HF. They serve double-duty as oral antihyperglycemics in diabetic patients and should be strongly considered in that setting.
+
+- **Canagliflozin** (Invokana)
+- **Empagliflozin** (Jardiance)
+- **Dapagliflozin** (Farxiga)
+
+## Medical Therapy for HFpEF
+No medications have had a clear positive impact on mortality in HFpEF. The disease is strongly linked to its underlying predisposing conditions, and optimization of these is likely to provide the best benefit. However, the following may be the best therapy for HFpEF:
+
+1. **Candesartan** which showed a hospitalization benefit in CHARM-Preserved.
+2. **Spironolactone** which showed a hospitalization benefit in TOPCAT. There may be a mortality benefit here as well, but issues with Russian/Georgian data in the trial preclude a clear statement of benefit.
 
 

@@ -30,7 +30,8 @@ theme:
         name: Switch to light mode
 
 plugins:
-  - search
+  - search:
+      prebuild_index: true
 
 markdown_extensions:
   - smarty

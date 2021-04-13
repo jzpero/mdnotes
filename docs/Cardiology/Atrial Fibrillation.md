@@ -100,7 +100,7 @@ In 2002, the [AFFIRM trial \(NEJM 2002\)](https://www.nejm.org/doi/full/10.1056/
 
 **Goal:** HR less than 100 at rest, according to the CCS Guidelines. However, the [RACE II trial \(NEJM 2010\)](https://www.nejm.org/doi/full/10.1056/NEJMoa1001337) demonstrated that, over three years with a broad CV composite outcome, a lenient rate target \(resting HR &lt;110 bpm\) was noninferior to a strict rate control target \(resting HR &lt; 80 bpm and &lt;110 bpm during moderate exercise\). Not only that, but a lenient target increased the target success rate, decreased visits necessary to reach the target, decreased the number of patients on medications at all, and decreased the dosages of beta blockers, verapamil, and combination therapy.
 
-!!! fyi
+!!! fyi ""
     The **RACE II \(2010\)** trial supports a lenient heart rate approach \(&lt;110 bpm at rest\) in active patients with mild to moderate symptoms.
 
 Common agents include: **beta blockers** \(metoprolol, bisoprolol, etc\), **non-DHP CCBs** \(diltiazem, verapamil\), **digoxin** \(lacks negative inotropic effects, may be useful in heart failure\).
@@ -129,7 +129,7 @@ The **CHA\(2\)DS\(2\)-VASc** score has been used to estimate stroke risk in nonv
 **Valvular AF** is generally accepted to refer to atrial fibrillation with rheumatic heart disease \(mainly mitral stenosis\) and artificial heart valves.
 {% endhint %}
 
-![CHA\(2\)DS\(2\)-VASc Score, Harrison&apos;s Principles of Internal Medicine](.gitbook/assets/image%20%283%29.png)
+![chadsvasc.png](img/chadsvasc.png)
 
 | CHA\(2\)DS\(2\)-VASc Score | Estimated Annual Stroke Rate \(%\) |
 | :--- | :--- |
@@ -147,7 +147,7 @@ The annual risk of stroke starts at 0, and increases by approximately 1% for eac
 
 In Canada, the recent **CHADS65** algorithm has supplanted previous scores in determining if patients should be on chronic anticoagulation. This has greatly simplified decision making. Of course, therapy must always be guided by patient preferences and individual circumstances.
 
-![CHADS65 algorithm \(Canadian Cardiovascular Society 2015\). OAC: oral anticoagulant.](.gitbook/assets/image%20%282%29.png)
+![chads65.png](img/chads65.png)
 
 #### Risk of Bleeding
 
@@ -157,11 +157,7 @@ Any anticoagulant therapy increases the risk of bleeding; that is the nature of 
 
 ### Anticoagulation
 
-**Warfarin** has long been the standard anticoagulant for atrial fibrillation, and it remains the therapy of choice for those with mitral stenosis and mechanical heart valves. It is an epoxide reductase inhibitor that interferes with the activation of vitamin K in the body, mostly in the liver. It is particularly cheap, but requires monthly INR checks and has many drug-drug interactions. Onset of action is over several \(3-5\) days as enzyme inhibition does not have immediate effects of coagulation factors. Immediate reversal consists of prothrombin complex concentrate \(PCC/Octaplex; coag factors 2, 7, 9, 10 and proteins C and S\), fresh frozen plasma, and vitamin K.
-
-{% hint style="info" %}
-Vitamin K-dependent proteins are: **coagulation factors 2, 7, 9, 10; proteins C and S**
-{% endhint %}
+**Warfarin** has long been the standard anticoagulant for atrial fibrillation, and it remains the therapy of choice for those with mitral stenosis and mechanical heart valves. It is an epoxide reductase inhibitor that interferes with the activation of vitamin K in the body, mostly in the liver. It is particularly cheap, but requires monthly INR checks and has many drug-drug interactions. Onset of action is over several \(3-5\) days as enzyme inhibition does not have immediate effects of coagulation factors. Immediate reversal consists of prothrombin complex concentrate \(PCC/Octaplex; coag factors 2, 7, 9, 10 and proteins C and S\), fresh frozen plasma, and vitamin K. Vitamin K-dependent proteins are: **coagulation factors 2, 7, 9, 10; proteins C and S**
 
 **Direct oral anticoagulants \(DOACs\)** are newer inhibitors of coagulation factors that are more expensive and more convenient. DOACs are noninferior to warfarin in individual head-to-head trials for stroke prevention in atrial fibrillation, and may actually be superior by a small margin for reduction of mortality, stroke, major bleeds, and intracranial hemorrhage. No DOACs have been directly compared so far. In severe renal disease, consider warfarin. Otherwise, adjust dosages with tools such as [Thrombosis Canada's Dosing Tool](https://thrombosiscanada.ca/tools/). Often, elderly patients are often inappropriately underdosed, meaning that they do not receive the proven benefits of anticoagulation, while receiving some of the bleeding risk.
 

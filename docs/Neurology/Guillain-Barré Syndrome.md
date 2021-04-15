@@ -51,12 +51,19 @@ Defined by presence of **anti-GQ1b antibodies (90%)**. Often affects cranail ner
 2. Ataxia
 3. Areflexia
 
+## Investigations
+
+- **CSF** typically shows elevated protein within 1 week, without a sustained pleocytosis
+
 ## Treatment of GBS
 
-- **IVIG and plasmapheresis** are proven to help improve symptoms and prognosis in acute inflammatory demyelinating polyneuropathy.
+- **IVIG or plasmapheresis** are proven to help improve symptoms and prognosis in acute inflammatory demyelinating polyneuropathy. Probably not helpful once patients reach the plateau phase. Combination is not proven to be better than one alone. For this reason, IVIG is usually the first line treatment due to safety and ease. 
+    - IVIG 0.4 g/kg x 5 days
+    - These interventions decrease need for ventilation by half. Improvements may be delayed.
     - steroids are not shown to be helpful
 - General medical supportive care
-    - Respiratory status and ventilation if needed
+    - Critical care, stepup, neurology ward setting as appropriate
+    - Respiratory status and ventilation if needed +/- trach
     - Cardiac and hemodynamic management (autonomic instability common)
     - Pain control
     - PT/OT/rehab

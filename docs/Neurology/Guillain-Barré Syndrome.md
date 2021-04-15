@@ -78,3 +78,9 @@ Defined by presence of **anti-GQ1b antibodies (90%)**. Often affects cranial ner
 -   Death generally occurs from ventilatory failure, pulmonary complications, or from autonomic dysfunction --> arrhythmia
 -   About 20% of patients with Guillain-Barré syndrome cannot walk unaided 6 months after onset
 -   Most patients have residual pain and fatigue, which can in part be attributed to persistent axonal loss.
+
+## References
+
+1. Harrison's Principles of Internal Medicine 20E, Chapter 439
+2. [Guillain-Barré syndrome - The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00339-1/fulltext)
+3. [Guillain–Barré syndrome: pathogenesis, diagnosis, treatment and prognosis | Nature Reviews Neurology](https://www.nature.com/articles/nrneurol.2014.121)

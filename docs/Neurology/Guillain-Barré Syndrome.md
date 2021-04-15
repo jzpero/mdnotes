@@ -18,6 +18,8 @@ Onset is 1-2 weeks after immune stimulation.
 ## Pathogenesis/Immunology
 Essentially, this is an autoimmune process leading to **acute neuropathy** which can be either **(1) demyelinating** or **(2) axonal (motor or sensory)** in type. This process is likely antibody-mediated, driven by molecular mimicry between microbial and cellular surface antigens.
 
+The axonal neuropathy subtypes are more associated with **anti-GM1** and **anti-GD1a** IgG autoantibodies.
+
 ![gbs-types.png](img/gbs-types.png)
 
 ## Clinical Features

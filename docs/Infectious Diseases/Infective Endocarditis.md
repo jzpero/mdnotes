@@ -82,7 +82,7 @@ Some conditions can mimic infectious endocarditis:
 
 * atrial myxoma
 * marantic endocarditis
-* antiphospholipid syndrome
+* antiphospholipid syndrome/lupus (Libman-Sacks endocarditis)
 
 ## Clinical Manifestations
 
@@ -184,4 +184,3 @@ _**Staphylococcus aureus**_ **bacteremia is an indication for routine TEE**, due
 1. Harrison's Principles of Internal Medicine, 20e
 2. Lilly Pathophysiology of Heart Disease
 3. [Hoen B and Duval X. Infective Endocarditis. New Eng J Med. 2013; 368:1425-33.](https://www.nejm.org/doi/full/10.1056/NEJMcp1206782)
-

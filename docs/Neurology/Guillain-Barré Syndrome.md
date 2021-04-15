@@ -7,11 +7,11 @@ Onset is 1-2 weeks after immune stimulation.
 
 - s/p **acute infectious process** (70%)
     - usually *respiratory or GI infection*
-    - 20-30% of cases are due to *Campylobacter jejuni* specifically
-    - Other common inciting pathogens are a HHV infection such as EBV or CMV, HIV, hepatitis E, influenza A, arboviruses (Zika virus, Chikungunya) *Mycoplasma pneumoniae*, *Haemophilus influenzae*
+    - 20-30% of cases are due to *Campylobacter jejuni*
+    - Other common inciting pathogens are a HHV infection such as EBV or CMV, HIV, hepatitis E, influenza A, arboviruses (Zika virus, Chikungunya), *Mycoplasma pneumoniae*, *Haemophilus influenzae*
 - s/p **vaccination**
-    - H1N1 influenza virus
-    - Semple Rabies vaccines
+    - H1N1 influenza vaccine
+    - Semple Rabies vaccine
 - **lupus**
 - **lymphoma**
 
@@ -40,12 +40,12 @@ Essentially, this is an autoimmune process leading to **acute neuropathy** which
 - **pain**
     - acute neck, back, spine pain (50%)
     - deep, aching muscular-type pain
-    - dysesthetic pain in the extremites due to sensory fibre involvement
+    - dysesthetic pain in the extremities due to sensory fibre involvement
 
 In terms of the **timeframe**, most patients plateau in symptoms within 4-6 weeks and progression beyond that point is unlikely. All patients improve but some may have residual symptoms.
 
 ### Miller-Fischer Syndrome
-Defined by presence of **anti-GQ1b antibodies (90%)**. Often affects cranail nerves. This is a triad of:
+Defined by presence of **anti-GQ1b antibodies (90%)**. Often affects cranial nerves. This is a triad of:
 
 1. Ophthalmoplegia
 2. Ataxia

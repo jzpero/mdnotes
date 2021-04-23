@@ -1,6 +1,22 @@
 # ACLS 101
 ## Bradycardia
+1. Identify and treat underlying cause(s):
+    1. Drugs (CCBs, BBs, digoxin), Ischemia, Electrolytes (e.g. hyperK)
+    4. ABCs, monitored setting, pads on, IV access, 12-lead EKG
+2. If stable, monitor and observe.
+3. If unstable, give **atropine 1 mg IV bolus** q3-5 minutes, maximum of 3 mg.
+4. If atropine ineffective, try pacing and/or one other medication.
+    1. **Transcutaneous pacing**
+    2. **Dopamine infusion** @ 5-20 mcg/kg/min
+    3. **Epinephrine infusion** @ 2-10 mcg/min
+5. May need expert consultation or transvenous pacing.
+
 ## Tachycardia
+### Narrow Complex Regular
+### Narrow Complex Irregular
+### Wide Complex Regular
+### Wide Complex Irregular
+
 ## Cardiac Arrest
 ### Shockable Rhythm
 1. **Ventricular fibrillation**

@@ -7,9 +7,13 @@
     2. sensitive to myocardial injury, not infarction
     3. serial troponins recommended (3 hours with hsTn)
 
-| STEMI Equivalent | Approach                          | 
-| ---------------- | --------------------------------- |
-| New LBBB         | Use modified Sgarbossa's Criteria |
+| STEMI Equivalent                         | Approach                                                                                          |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| New LBBB, modified Sgarbossa's positive  | Excessive concordant ST changes, excessive discordant ST changes                                  | 
+| de Winter's T waves                      | possible LAD occlusion                                                                            |
+| Wellen's syndrome                        | gradually evolving deep, developed T-wave inversion in leads V1–V4. Pseudonormalization in STEMI. |
+| Posterior MI                             | reciprocal changes in V1-V3                                                                       |
+| LMCA (or proxLAD, triple vessel disease) | STE >= 1 mm in aVR or V1, with STD >=1 mm in >= 6 leads                                           |
 
 ![stemi sequence.png](img/stemi%20sequence.png)
 
@@ -21,8 +25,10 @@
 
 ### Subsequent/Concurrent Therapy
 1. **Antiplatelet therapy.**
-    1. ASA 160 mg PO
-    2. 
+    1. **ASA 160 mg PO**, crushed or chewed. Continue with 81 mg PO daily thereafter
+    2. **P2Y12 receptor inhibitor**
+        1. Unless undergoing fibrinolysis, use ticagrelor > prasugrel.
+        2. If undergoing fibrinolysis, then use clopidogrel.
 2. **Anticoagulant therapy.** Depends on reperfusion method.
     1. Fibrinolysis
         1. Enoxaparin

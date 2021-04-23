@@ -18,10 +18,12 @@
 ![stemi sequence.png](img/stemi%20sequence.png)
 
 ## Management
-### Initial Therapy
+### Supportive
 
 1. Oxygen > 90% or if in respiratory failure or distress, or high risk for hypoxia
-2. **Reperfusion**. Time = muscle. Two choices: (1) fibrinolysis (2) primary PCI.
+
+### Reperfusion
+Time = muscle. Two choices: (1) fibrinolysis (2) primary PCI.
 
 ### Subsequent/Concurrent Therapy
 1. **Antiplatelet therapy.**

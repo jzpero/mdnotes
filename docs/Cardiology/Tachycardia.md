@@ -1,3 +1,3 @@
-# Tachycardias
+# Tachycardia
 
 ![tachycardias.jpg](img/tachycardias.jpg)

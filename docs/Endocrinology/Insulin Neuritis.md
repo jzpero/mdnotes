@@ -26,7 +26,7 @@
 
 ## Management
 - "permissive hyperglycemia" has been proposed but evidence for/against is lacking
-- typically initially refractory to treatment, but will improve over time (months)
+- typically initially refractory to treatment, particularly pain, but will improve over time (months)
 - symptomatic treatment can consist of:
     - prokinetic agents such as erythromycin/domperidone for gastroparesis
     - ivabradine or other negative chronotropes for tachycardia

@@ -15,6 +15,7 @@
 ## Glucose Monitoring
 
 If indicated, then the frequency should be about:
+
 - AC and HS if eating;
 - q4-6 h if NPO or with continuous enteral feeding;
 - q1-2 h if on continuous IV insulin or critically ill.
@@ -22,3 +23,4 @@ If indicated, then the frequency should be about:
 Consider monitoring on glucose-altering interventions (glucocorticoids, octreotide, parenteral or enteral nutrition, etc).
 
 CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
+

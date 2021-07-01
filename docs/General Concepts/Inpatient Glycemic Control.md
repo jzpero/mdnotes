@@ -54,6 +54,14 @@ CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 
 ## IV Insulin
 
+-   Less preferred; used in ICU, NPO, DKA, HHS, states
+-   Would require BG measurements Q1-2H
+-   Usually needs concurrent glucose (PO/IV) administration except in DKA/HHS
+-   Transition to SC insulin:
+    -   Give short/rapid/fast acting insulin 1-2 hours before D/C IV insulin
+    -   Give intermediate/long acting insulin 2-3 hours before D/C IV insulin
+    -   Extrapolate a safe initial dose of SC insulin from the previous 6-8 hours to the 24-hour TDD, and give 50-80% of this calculated TDD as basal.
+
 ## NPO
 
 -   T1DM - continue basal insulin at 75-100% of current dose depending on control

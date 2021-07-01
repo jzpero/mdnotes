@@ -61,6 +61,19 @@ CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 -   No prandial insulin, obviously
 
 ## Oral Antihyperglycemics
+   
+-   If PO status preserved, can consider cautiously continuing oral agents.
+-   Discontinue or hold these medications in the following circumstances:
+    -   NPO/unable to eat normally
+    -   Day of a procedure, can resume afterwards
+    -   (potentially) contrast administration
+-   as well, ideally hold the following regardless of PO status:
+    -   SGLT2i (risk of euglycemic DKA)
+    -   GLP1 agonist (risk of nausea)
+-   in specific scenarios, hold the following regardless of PO status:
+    -   metformin (renal failure - risk of lactic acidosis)
+    -   TZDs (heart failure)
+    -   sulfonylureas (acute coronary syndrome)
 
 ## Corticosteroids
    

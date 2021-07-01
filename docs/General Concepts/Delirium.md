@@ -35,7 +35,8 @@ Theories range from cholingeric failure hypotheses, to dopamine excess, to HPA a
 
 Pay particular attention to:
 
-- anticholinergics, narcotics, benzodiazepines
+- anticholinergics, antihistamines, opioids, benzodiazepines
+- serotonin syndrome/neuroleptic malignant syndrome
 - drugs of abuse
 - lytes and glucose
 - calcium

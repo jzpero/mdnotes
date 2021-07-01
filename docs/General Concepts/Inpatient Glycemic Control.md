@@ -56,6 +56,10 @@ CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 
 ## NPO
 
+-   T1DM - continue basal insulin at 75-100% of current dose depending on control
+-   T2DM - continue basal insulin at 25-75% of current dose depending on control
+-   No prandial insulin, obviously
+
 ## Oral Antihyperglycemics
 
 ## Corticosteroids

@@ -35,6 +35,22 @@ Consider monitoring on glucose-altering interventions (glucocorticoids, octreoti
 CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 
 ## SC Insulin
+### Basal
+
+- must continue in T1DM due to risk of DKA
+- continue for insulin-dependent T2DM
+- new basal insulin dose is about 0.2-0.4 u/kg/d, as either NPH Q12H or glargine/degludec/detemir 
+
+### Bolus
+
+- should be a rapid-acting insulin analogue (aspart, lispro, glulisine), approx 0.05-0.1 u/kg/day if starting new, or 1/6 of TDD each
+
+### Correctional
+
+- used in addition to basal + bolus to titrate control
+- dose may vary according to degree of insulin resistance
+- should be the same type of insulin as the bolus
+- can be used to start or bridge insulin therapy in T2DM with Q6H regular insulin, correct marked nocturnal hyperglycemia, etc.
 
 ## IV Insulin
 

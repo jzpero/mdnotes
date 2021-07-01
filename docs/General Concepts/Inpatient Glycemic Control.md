@@ -54,7 +54,7 @@ CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 
 ## IV Insulin
 
--   Less preferred; used in ICU, NPO, DKA, HHS, states
+-   Less preferred; used in ICU, NPO, DKA, HHS states
 -   Would require BG measurements Q1-2H
 -   Usually needs concurrent glucose (PO/IV) administration except in DKA/HHS
 -   Transition to SC insulin:
@@ -88,3 +88,9 @@ CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 -   Hyperglycemia develops in 20-50% of people without previous hx of DM on corticosteroids
 -   Consider monitoring BG for 48 hours after initiating steroids w/wo hx of DM
 -   Can be treated with basal-bolus regimen as above
+
+## References
+
+1.   [Management of diabetes mellitus in hospitalized patients - UpToDate](https://www.uptodate.com/contents/management-of-diabetes-mellitus-in-hospitalized-patients)
+2.  Pocket Medicine - Sabatine
+3.   [Diabetes Canada | Clinical Practice Guidelines - Chapter 16: In-hospital Management of Diabetes](https://guidelines.diabetes.ca/cpg/chapter16)

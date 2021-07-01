@@ -17,6 +17,8 @@ Increases LOS, infections, functional decline, institutionalization, recidivism.
 
 High mortality risk, about 25-33% in-hospital.
 
+Associated with persistent cognitive dysfunction.
+
 ## Pathogenesis
 Occurs from widespread disturbances in cortical and subcortical brain regions with diffuse cerebral dysfunction. This is a result of an **insult to a predisposed individual**.
 

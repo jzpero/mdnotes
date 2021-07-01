@@ -63,3 +63,7 @@ CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 ## Oral Antihyperglycemics
 
 ## Corticosteroids
+   
+-   Hyperglycemia develops in 20-50% of people without previous hx of DM on corticosteroids
+-   Consider monitoring BG for 48 hours after initiating steroids w/wo hx of DM
+-   Can be treated with basal-bolus regimen as above

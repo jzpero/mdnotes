@@ -58,7 +58,17 @@ The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. I
 
 Form and investigate the differential based on **DIMS**. Decide on level of care needed (may need to escalate with hemodynamic instability, hypoxemia, hypercapnia, methemoglobinemia, new focal neurologic signs, severely altered LOC).
 
-###  Inattention
+Neuro examination would consist of the minimum:
+
+1. Level of consciousness
+2. speech and language
+3. attention
+4. orientation
+5. cranial nerves
+6. gross muscle strength
+7. respiratory pattern and withdrawal to noxious stimuli, if unconscious
+
+###  Tests of Attention
  
  - serial 7s
  - digit span, forwards (5) or backwards (3)
@@ -67,7 +77,7 @@ Form and investigate the differential based on **DIMS**. Decide on level of care
  - WORLD backwards
  - hypervigilance tests
 
-### Other Features
+### Other Common Features
 
 - perceptual disturbances
 - altered sleep-wake cycle

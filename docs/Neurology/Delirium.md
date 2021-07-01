@@ -9,7 +9,7 @@ Can be **hyperactive** or **hypoactive** or **mixed**.
 Delirium is a **CNS manifestation of usually a non-CNS problem. It is a medical emergency unless proven otherwise.**
 
 ## Risk Factors
-Major RF are age (65+), baseline cognitive dysfunction or dementia (MMSE > 24), sensory deprivation, poor overall health, infection and acute illness (APACHE II > 16), surgery, pain, poor vision (<20/70)., dehydration.
+Major RF are age (65+), baseline cognitive dysfunction or dementia (MMSE > 24), sensory deprivation, poor overall health, infection and acute illness (APACHE II > 16), surgery, pain, poor vision (<20/70), dehydration.
 
 Major precipitating factors are physical restraint, Foley catheter, malnutrition, new medications, iatrogenic events.
 

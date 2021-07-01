@@ -35,3 +35,25 @@ Pay particular attention to:
 - thyroid
 - end of life
 - seizures
+
+## Assessment
+The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. It requires (1) and (2). It is 82% sens and 99% spec for delirium.
+   
+
+-   (1) acute onset and fluctuating course;
+-   (2) inattention with either (3) or (4);
+-   (3) disorganized thinking;
+-   (4) altered LOC.
+
+Important to assess:
+| Feature                | Description                                                            |
+| ---------------------- | ---------------------------------------------------------------------- |
+| Baseline mental status | changes from the baseline? predisposition? timeframe?                  |
+| inattention            | WORLD in reverse, serial 7's,  vigilance tests such as tapping fingers |
+| level of consciousness | e.g. via RASS score                                                    |
+| fluctuation            | must fluctuate over course of the day                                  |
+| confusion              | reduced "awareness" or "clouded sensorium"                             |
+| collateral             |                                                                        |
+| perceptual disturbance | hallucinations or delusions                                            |
+| perseveration          |                                                                        |
+| orientation            |                                                                        |

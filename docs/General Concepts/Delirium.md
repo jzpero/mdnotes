@@ -109,7 +109,7 @@ Really only indicated with:
     2.  Risperidone 0.25-0.5 mg PO BID
     3.  Olanzapine 2.5-5.0 mg PO daily
     4.  Quetiapine 6.25-25 mg PO BID/TID
-5.  **Benzos** have a limited role; they are reserved for sedative drug/ETOH eithdrawal and when antipsychotics are contraindicated. They can worsen confusion and sedation. Less effective overall. Dangerous in elderly.
+5.  **Benzos** have a limited role; they are reserved for sedative drug/ETOH withdrawal, catatonia and when antipsychotics are contraindicated such as severe QT prolongation. They can worsen confusion and sedation. Less effective overall. Dangerous in elderly.
  
  
 With antipsychotics, keep in mind the risks of **EPS/Parkinsonism**, stroke, dysrhythmias like **QT prolongation/TdP**/SCD, pneumonia, falls, incontinence, NMS.

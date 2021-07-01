@@ -67,19 +67,7 @@ The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. I
 - perceptual disturbances
 - altered sleep-wake cycle
 - emotional lability
-
-Important to assess:
-| Feature                | Description                                                            |
-| ---------------------- | ---------------------------------------------------------------------- |
-| Baseline mental status | changes from the baseline? predisposition? timeframe?                  |
-| inattention            | WORLD in reverse, serial 7's,  vigilance tests such as tapping fingers |
-| level of consciousness | e.g. via RASS score                                                    |
-| fluctuation            | must fluctuate over course of the day                                  |
-| confusion              | reduced "awareness" or "clouded sensorium"                             |
-| collateral             |                                                                        |
-| perceptual disturbance | hallucinations or delusions                                            |
-| perseveration          |                                                                        |
-| orientation            |                                                                        |
+      
 
 ## Treatment
 

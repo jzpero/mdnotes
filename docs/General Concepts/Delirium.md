@@ -80,10 +80,11 @@ The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. I
     4)  mobility
     5)  hydration
     6)  self-care
-4)  **Pharmacotherapy** is indicated if they're a physical threat to themselves or other, interfering with necessary medical treatment to resolve the underlying cause, or with extreme patient emotional distress. It doesn't improve outcomes but can convert hyperactive to hypoactive delirium. Start LOW and go SLOW.
-    1)  Haloperidol 0.25-0.5 mg IVSC/IM BID
+4)  **Antipsychotics** are indicated if they're a physical threat to themselves or other, interfering with necessary medical treatment to resolve the underlying cause, or with extreme patient emotional distress. It doesn't improve outcomes but can convert hyperactive to hypoactive delirium. Start LOW and go SLOW.
+    1)  Haloperidol 0.25-0.5 mg PO/IV/SC/IM BID
     2)  Risperidone 0.25-0.5 mg PO BID
     3)  Olanzapine 2.5-5.0 mg PO daily
     4)  Quetiapine 6.25-25 mg PO BID/TID
+5)  **Benzos** have a limited role; they are reserved for sedative drug/ETOH eithdrawal and when antipsychotics are contraindicated. They can worsen confusion and sedation. Less effective overall. Dangerous in elderly.
   
-With antipsychotics, keep in mind the risks of EPS, stroke, dysrhythmias like TdP/SCD, pneumonia, falls, incontinence, NMS.
+With antipsychotics, keep in mind the risks of EPS/Parkinsonism, stroke, dysrhythmias like TdP/SCD, pneumonia, falls, incontinence, NMS.

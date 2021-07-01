@@ -1,4 +1,14 @@
 # Inpatient Glycemic Control
+## Consequences
+
+- hypoglycemia
+    - catacholaminergic state (arrhythmias, cardiac events)
+    - transient cognitive deficits (falls, aspiration)
+    - mortality
+- hyperglycemia
+    - catabolic state
+    - electrolyte and fluid imbalances
+
 ## Glycemic Targets for Hospitalized Diabetics
 | Population                 | BG Target (mM)                       |
 | -------------------------- | ------------------------------------ |
@@ -16,7 +26,7 @@
 
 If indicated, then the frequency should be about:
 
-- AC and HS if eating;
+- fating, AC, and HS if eating;
 - q4-6 h if NPO or with continuous enteral feeding;
 - q1-2 h if on continuous IV insulin or critically ill.
 

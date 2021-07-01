@@ -40,7 +40,7 @@ Pay particular attention to:
 - drugs of abuse
 - lytes and glucose
 - calcium
-- liver and renal status
+- liver and renal failure
 - dehydration
 - ANY infection
 - thyroid
@@ -48,13 +48,15 @@ Pay particular attention to:
 - seizures
 
 ## Assessment
+
 The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. It requires (1) and (2). It is 82% sens and 99% spec for delirium. It is the best bedside instrument for dx of delirium.
-   
 
 -   (1) acute onset and fluctuating course;
 -   (2) inattention with either (3) or (4);
 -   (3) disorganized thinking;
 -   (4) altered LOC.
+
+Form and investigate the differential based on **DIMS**. Decide on level of care needed.
 
 ###  Inattention
  

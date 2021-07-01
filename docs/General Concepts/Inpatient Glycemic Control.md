@@ -34,5 +34,12 @@ Consider monitoring on glucose-altering interventions (glucocorticoids, octreoti
 
 CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 
+## SC Insulin
 
+## IV Insulin
 
+## NPO
+
+## Oral Antihyperglycemics
+
+## Corticosteroids

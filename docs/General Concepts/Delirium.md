@@ -29,7 +29,7 @@ Theories range from cholingeric failure hypotheses, to dopamine excess, to HPA a
 | --------------- | --------------------------------------------------------------------------------------- |
 | **D**rugs       | Rx drugs, overdose/abuse, poisoning/toxidrome                                           |
 | **I**nfection   | Pneumonia, UTI, skin, CNS, etc.                                                         |
-| **M**etabolic   | electrolytes, glucose, temperature, oxygenation, liver and renal, thyroid, vitamins, hydration, nutrition |
+| **M**etabolic   | electrolytes, glucose, temperature, oxygenation, liver and renal, thyroid, vitamins/thiamine/B12, hydration, nutrition |
 | **E**nvironment | hospitalization, poor vision, etc.                                                      |
 | **S**tructural  | CNS lesions, strokes, etc.                                                                                        |
 
@@ -73,7 +73,7 @@ The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. I
 
 ## Treatment
 
-1. Rule out alternatives such as depression, dementia
+1. Rule out alternatives such as depression, dementia.
 2.  Treat reversible causes
 3.  Supportive measures
     1.  sitter

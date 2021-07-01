@@ -73,7 +73,7 @@ The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. I
 
 ## Treatment
 
-1) Rule out alternatives such as depression, dementia
+1. Rule out alternatives such as depression, dementia
 2)  Treat reversible causes
 3)  Supportive measures
     1)  sitter
@@ -88,5 +88,6 @@ The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. I
     3)  Olanzapine 2.5-5.0 mg PO daily
     4)  Quetiapine 6.25-25 mg PO BID/TID
 5)  **Benzos** have a limited role; they are reserved for sedative drug/ETOH eithdrawal and when antipsychotics are contraindicated. They can worsen confusion and sedation. Less effective overall. Dangerous in elderly.
-  
+ 
+ 
 With antipsychotics, keep in mind the risks of EPS/Parkinsonism, stroke, dysrhythmias like TdP/SCD, pneumonia, falls, incontinence, NMS.

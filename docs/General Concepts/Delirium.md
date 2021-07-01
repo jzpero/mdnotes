@@ -31,7 +31,7 @@ Theories range from cholingeric failure hypotheses, to dopamine excess, to HPA a
 | **I**nfection   | Pneumonia, UTI, skin, CNS, etc.                                                         |
 | **M**etabolic   | electrolytes, glucose, temperature, oxygenation, liver and renal, thyroid, vitamins/thiamine/B12, hydration, nutrition |
 | **E**nvironment | hospitalization, poor vision, etc.                                                      |
-| **S**tructural  | CNS lesions, strokes, etc.                                                                                        |
+| **S**tructural  | CNS lesions, strokes, blood pressure, etc.                                                                                        |
 
 Pay particular attention to:
 
@@ -56,7 +56,7 @@ The **Confusion Assessment Method (CAM)** is a 4-question screen for delirium. I
 -   (3) disorganized thinking;
 -   (4) altered LOC.
 
-Form and investigate the differential based on **DIMS**. Decide on level of care needed.
+Form and investigate the differential based on **DIMS**. Decide on level of care needed (may need to escalate with hemodynamic instability, hypoxemia, hypercapnia, methemoglobinemia, new focal neurologic signs, severely altered LOC).
 
 ###  Inattention
  

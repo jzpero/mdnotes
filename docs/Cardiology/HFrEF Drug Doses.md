@@ -12,7 +12,7 @@
 | Trandolapril                      | 0.5 mg o.d.                 | 4 mg o.d.                 |
 | **ARNI**                          |                             |                           |
 | Sacubitril/valsartan              | 49/51 mg b.i.d.             | 97/103 mg b.i.d.          |
-| Beta-blockers                     |                             |                           |
+| **Beta-blockers**                     |                             |                           |
 | Bisoprolol                        | 1.25 mg o.d.                | 10 mg o.d.                |
 | Carvedilol                        | 3.125 mg b.i.d.             | 25 mg b.i.d.             |
 | Metoprolol succinate (CR/XL)      | 12.5–25 mg o.d.             | 200 mg o.d.               |

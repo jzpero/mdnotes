@@ -31,5 +31,3 @@
 | Vericiguat                        | 2.5 mg o.d.                 | 10 mg o.d.                |
 | Digoxin                           | 62.5 µg o.d.                | 250 µg o.d.               |
 | Hydralazine/ Isosorbide dinitrate | 37.5 mg t.i.d./20 mg t.i.d. | 75 mg t.i.d./40 mg t.i.d. |
-
-![[docs/HFrEF Drug Doses_2021-10-29 01.05.08.excalidraw.md]]

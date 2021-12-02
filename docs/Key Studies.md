@@ -2,36 +2,36 @@
 
 ## Critical Care
 ### Renal replacement therapy
-- AKIKI
-- AKIKI-2
-- STARRT-AKI
+- AKIKI (standard vs delayed RRT)
+- AKIKI-2 (delayed vs more-delayed RRT)
+- STARRT-AKI (early vs standard RRT)
 
 ### Fluids
-- SALT-ED
-- SMART
-- BaSICS
-- SAFE
+- SALT-ED (balanced vs saline in ED)
+- SMART (balanced vs saline in ICU)
+- BaSICS (balanced vs saline and slow vs fast bolus in ICU)
+- SAFE (saline vs albumin in ICU)
 
 ### Mechanical ventilation and ARDS
-- ACURASYS
-- ROSE
-- PROSEVA
-- ARDSNet
+- ACURASYS (cisatracurium in early ARDS)
+- ROSE (cisatrcurium in early ARDS with modern sedation practices)
+- PROSEVA (early proning in ARDS)
+- ARDSNet (low VT and plateau pressure guided ventilation strategy -- "low-stretch")
 
 ### Sepsis and septic shock
-- Rivers et al. 2001
-- ProCESS
-- ARISE
-- ProMISE
+- Rivers et al. 2001 (early goal directed therapy for septic shock)
+- ProCESS (validation trial)
+- ARISE (validation trial)
+- ProMISE (validation trial)
 
 ## Nephrology
 ### Chronic kidney disease
-- SHARP
+- SHARP (statin and ezetimibe in CKD)
 - DAPA-CKD
 - CANVAS
 
 ### Hypertension
-- SPRINT
+- SPRINT (intensive BP control in higher risk patients)
 - ACCORD-BP
 - SHEP
 - ACCOMPLISH
@@ -39,7 +39,7 @@
 ### Nephritis
 - PEXIVAS
 - MEPEX
-- TESTING
+- TESTING (steroids in IgA nephropathy)
 
 ## Cardiology
 ### Heart Failure
@@ -48,12 +48,12 @@
 - DAPA-HF
 
 #### Beta blockers in heart failure
-- MERIT-HF
-- CIBIS-II
+- MERIT-HF (metoprolol)
+- CIBIS-II (bisoprolol)
 - US Carvedilol HF Study
 
 #### MRAs in heart failure
-- TOPCAT
+- TOPCAT (spironolactone in HFpEF)
 
 #### RAS inhibition in heart failure
 - PARADIGM-HF
@@ -76,8 +76,9 @@
 - CURE
 
 ### Chronic coronary syndrome
-- COMPASS
-- SCOT-HEART
+- COMPASS (low dose rivaroxaban for stable vascular disease)
+- SCOT-HEART (CCTA)
+- PROMISE (CCTA)
 
 ### Atrial fibrillation
 - RATE-AF

@@ -44,6 +44,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - footnotes
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 
 extra:
   social:

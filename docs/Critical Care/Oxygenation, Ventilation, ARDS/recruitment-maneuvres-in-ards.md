@@ -89,9 +89,3 @@ References
 3.  [Deranged Physiology](https://derangedphysiology.com/required-reading/respiratory-medicine-and-ventilation/Chapter%20521/recruitment-manoeuvres)
 4.  [LITFL](https://litfl.com/lung-recruitment-manoeuvres/)
 5.  [UpToDate](https://www.uptodate.com/contents/ventilator-management-strategies-for-adults-with-acute-respiratory-distress-syndrome#H2209219082)
-
-* * *
-
-[Revision #3  
-](http://medreference.ca:8080/books/critical-care-medicine/page/recruitment-maneuvres-in-ards/revisions)Created Thu, Jan 13, 2022 3:42 AM by [Jasper Ho](http://medreference.ca:8080/user/1)  
-Updated Thu, Jan 13, 2022 4:20 AM by [Jasper Ho](http://medreference.ca:8080/user/1)

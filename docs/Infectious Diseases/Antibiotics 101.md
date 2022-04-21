@@ -14,7 +14,7 @@
 - fluoroquinolones
 
 ### Beta-Lactams
-==Common central structure== with a beta lactam ring and a thiazolidine ring (penicillins and carbapenems) or a dihydrothiazine ring (cephalosporins).
+Common central structure with a beta lactam ring and a thiazolidine ring (penicillins and carbapenems) or a dihydrothiazine ring (cephalosporins).
 All bind to and inhibit PBPs, enzymes important for cross-linking bacterial cell wall peptidoglycans. Prevents cross linkage of the cell wall peptigoglycans, leading to loss of bacterial cell wall integrity. All require active bacterial growth for bacteriocidal action.
 
 #### Penicillins

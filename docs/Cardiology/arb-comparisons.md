@@ -1,14 +1,12 @@
-   
+Evidence suggests ARBs should be first line for CV indications over ACE inhibitors (<a href="http://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.120.16667">Chen et al. <em>Hypertension</em> 2021</a>). Which ARBs should you choose when prescribing?
 
-<p id="bkmrk-evidence-suggests-ar">Evidence suggests ARBs should be first line for CV indications over ACE inhibitors (<a href="http://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.120.16667">Chen et al. <em>Hypertension</em> 2021</a>). Which ARBs should you choose when prescribing?</p>
-<p id="bkmrk-"><a title="" href="http://medreference.ca/uploads/images/gallery/2022-03/tPiI3sSx1o0vPQGJ-image-1648585291820.png" target="_blank" rel="noopener"><img title="" src="http://medreference.ca/uploads/images/gallery/2022-03/scaled-1680-/tPiI3sSx1o0vPQGJ-image-1648585291820.png" alt="image-1648585291820.png"></a></p>
-<table id="bkmrk-when%3F-which-one-to-g" class="rendered small default_table" frame="hsides" rules="groups"><thead><tr><th colspan="1" rowspan="1" align="left"><strong>When?</strong></th>
-<th colspan="2" rowspan="1" align="left"><strong>Which one to give?</strong></th>
-<th colspan="1" rowspan="1" align="left"><strong>Which one to avoid?</strong></th>
-</tr><tr><th colspan="1" rowspan="1" align="left"><strong>Clinical condition of concern</strong></th>
-<th colspan="1" rowspan="1" align="left"><strong>First ARBs of choice</strong></th>
-<th colspan="1" rowspan="1" align="left"><strong>ARBs with potentially beneficial effects</strong></th>
-<th colspan="1" rowspan="1" align="left"><strong>ARBs with potentially negative effect</strong></th>
+<table id="bkmrk-when%3F-which-one-to-g"><thead><tr><th colspan="1" rowspan="1" align="left">When?</th>
+<th colspan="2" rowspan="1" align="left">Which one to give?</th>
+<th colspan="1" rowspan="1" align="left">Which one to avoid?</th>
+</tr><tr><th colspan="1" rowspan="1" align="left">Clinical condition of concern</th>
+<th colspan="1" rowspan="1" align="left">First ARBs of choice</th>
+<th colspan="1" rowspan="1" align="left">ARBs with potentially beneficial effects</th>
+<th colspan="1" rowspan="1" align="left">ARBs with potentially negative effect</th>
 </tr></thead><tbody><tr><td colspan="1" rowspan="1" align="left">Cardiovascular prevention</td>
 <td colspan="1" rowspan="1" align="left">Telmisartan [<a id="bkmrk-10" class=" bibr" role="button" href="https://www-ncbi-nlm-nih-gov.libaccess.lib.mcmaster.ca/pmc/articles/PMC4947116/#CR10" target="_blank" rel="noopener" aria-expanded="false" aria-haspopup="true">10</a>–<a id="bkmrk-12" class=" bibr" role="button" href="https://www-ncbi-nlm-nih-gov.libaccess.lib.mcmaster.ca/pmc/articles/PMC4947116/#CR12" target="_blank" rel="noopener" aria-expanded="false" aria-haspopup="true">12</a>]</td>
 <td colspan="1" rowspan="1" align="left">Losartan [<a id="bkmrk-13" class=" bibr" role="button" href="https://www-ncbi-nlm-nih-gov.libaccess.lib.mcmaster.ca/pmc/articles/PMC4947116/#CR13" target="_blank" rel="noopener" aria-expanded="false" aria-haspopup="true">13</a>]</td>
